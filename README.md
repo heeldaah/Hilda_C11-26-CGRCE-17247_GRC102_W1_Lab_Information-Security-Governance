@@ -87,21 +87,29 @@ flowchart TD
     A["Board of Directors"] --> B["CEO - Sarah Chen"]
     B --> C["Information Security Governance Function"]
     C --> D["Security Steering Committee"]
+
     D --> E["IT Operations - John Smith"]
     D --> F["Development - Jane Doe"]
     D --> G["Compliance - Mark Johnson"]
     D --> H["HR - Robert Green"]
     D --> I["Finance - Emily White"]
+
     C --> J["Security Risk & Reporting"]
     C --> K["Policies & Governance"]
     C --> L["Security Metrics & Assurance"]
+```
 
 ## Key Reporting Relationships
-The Board provides oversight and approves major security priorities.
-The CEO provides executive leadership and ensures security supports business objectives.
-The Information Security Governance Function coordinates governance, risk, reporting and policy activities.
-The Security Steering Committee provides cross-functional oversight and decision-making.
-IT, Development, Compliance, HR and Finance contribute their specific responsibilities to security governance.
+
+- The Board provides oversight and approves major security priorities.
+- The CEO provides executive leadership and ensures security supports business objectives.
+- The Information Security Governance Function coordinates governance, risk, reporting and policy activities.
+- The Security Steering Committee provides cross-functional oversight and decision-making.
+- IT, Development, Compliance, HR and Finance contribute their specific responsibilities to security governance.
+
+---
+
+## 1.3 RACI Matrix
 
 ## 1.3 RACI Matrix
 
