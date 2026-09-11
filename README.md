@@ -129,35 +129,6 @@ flowchart TD
 | Security metrics and Board reporting | A | A | R | C | C | I | I |
 | Security Steering Committee decisions | I | A | R | R | R | C | C |
 
-# GHC Information Security Governance Blueprint
-
-> A comprehensive governance framework for Global HealthCare (GHC) covering information security charter, board reporting, security steering committee, and maturity roadmap.
-
----
-
-## Table of Contents
-
-- [1.4 Governance Rationale](#14-governance-rationale)
-- [2. INFORMATION SECURITY CHARTER](#2-information-security-charter)
-  - [2.1 GHC Information Security Charter](#21-ghc-information-security-charter)
-  - [2.2 CFO Justification Memo](#22-cfo-justification-memo)
-- [3. BOARD REPORTING](#3-board-reporting)
-  - [3.1 Board Executive Summary](#31-board-executive-summary)
-  - [3.2 Selected Security Metrics](#32-selected-security-metrics)
-  - [3.3 Priority Risks and Recommendations](#33-priority-risks-and-recommendations)
-  - [3.4 Metric Selection Rationale](#34-metric-selection-rationale)
-- [4. SECURITY STEERING COMMITTEE](#4-security-steering-committee)
-  - [4.1 Security Steering Committee Terms of Reference](#41-security-steering-committee-terms-of-reference)
-  - [4.2 Sample First-Meeting Agenda](#42-sample-first-meeting-agenda)
-  - [4.3 CEO Briefing Note](#43-ceo-briefing-note)
-- [5. GOVERNANCE MATURITY](#5-governance-maturity)
-  - [5.1 Maturity Assessment](#51-maturity-assessment)
-  - [5.2 12-18 Month Improvement Roadmap](#52-12-18-month-improvement-roadmap)
-  - [5.3 Board-Level Executive Summary](#53-board-level-executive-summary)
-- [6. CONCLUSION](#6-conclusion)
-- [7. REFERENCES](#7-references)
-- [8. AI ASSISTANCE DECLARATION](#8-ai-assistance-declaration)
-
 ---
 
 ## 1.4 Governance Rationale
