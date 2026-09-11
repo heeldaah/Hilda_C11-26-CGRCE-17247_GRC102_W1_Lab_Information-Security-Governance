@@ -323,7 +323,7 @@ The charter is not only a security document. It provides a practical framework f
 
 ### 3.1 Board Executive Summary
 
-Current Security Posture: ![RED](https://img.shields.io/badge/●-RED-critical?style=for-the-badge&label=Overall%20Security%20Posture) RED
+Current Security Posture: ![●](https://img.shields.io/badge/●-red?style=for-the-badge) RED
 
 The security data for the six-month period from September to February shows that GHC's overall security posture requires attention.
 
