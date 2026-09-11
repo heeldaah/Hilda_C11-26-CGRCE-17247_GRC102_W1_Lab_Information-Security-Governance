@@ -96,7 +96,7 @@ flowchart TD
     C --> K["Policies & Governance"]
     C --> L["Security Metrics & Assurance"]
 
-### Key Reporting Relationships
+## Key Reporting Relationships
 The Board provides oversight and approves major security priorities.
 The CEO provides executive leadership and ensures security supports business objectives.
 The Information Security Governance Function coordinates governance, risk, reporting and policy activities.
